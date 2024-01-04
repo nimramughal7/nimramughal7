@@ -1,6 +1,7 @@
 <img src="https://blog.communicationcrafts.com/wp-content/uploads/sites/2/2023/02/How-to-Hire-a-Frontend-Developer_banner.png">
 <h1 align="center">Hi 👋, I'm Nimra Mughal</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
+<img align="right" width="400px" src="https://miro.medium.com/v2/resize:fit:1400/0*FGD6BUzzZs1VJLuY.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nimramughal7&label=Profile%20views&color=0e75b6&style=flat" alt="nimramughal7" /> </p>
 
