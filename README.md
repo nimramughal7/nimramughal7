@@ -1,3 +1,4 @@
+<img src="https://blog.communicationcrafts.com/wp-content/uploads/sites/2/2023/02/How-to-Hire-a-Frontend-Developer_banner.png">
 <h1 align="center">Hi 👋, I'm Nimra Mughal</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
